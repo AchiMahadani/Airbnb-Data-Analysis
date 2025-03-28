@@ -1,4 +1,4 @@
-# Airbnb Dataset - Exploratory Data Analysis (EDA)
+# Airbnb Data Analysis- Exploratory Data Analysis (EDA)
 
 ## 📌 Overview
 This project focuses on **Exploratory Data Analysis (EDA)** of the **Airbnb Open Data** dataset. The dataset has been cleaned and analyzed to extract key insights about listings, pricing, room types, and customer engagement trends.
